@@ -22,8 +22,10 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 ## Program
 
+![Screenshot 2024-12-14 214658](https://github.com/user-attachments/assets/a6592721-73fc-4fb5-bccd-af3f7802ca3a)
 
 ## Output :
+![Screenshot 2024-12-14 214708](https://github.com/user-attachments/assets/8b46d7fe-3dc4-4341-b575-de1fa100271b)
 
 ## Result : 
-
+Thus the average number of materials  in the system  and conveyor ,waiting  time of each  material  in the system and conveyor  is found Successfully
